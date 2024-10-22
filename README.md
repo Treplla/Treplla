@@ -29,10 +29,4 @@ I'm passionate about coding and constantly improving my skills. Here's a little 
 ## 🌱 Learning
 - Exploring [TypeScript](https://www.typescriptlang.org/) and advanced backend development.
 
-## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/your-profile) 
-- [Email](mailto:your-email@example.com)
-
----
-
 _"Simplicity is the ultimate sophistication."_ — Leonardo da Vinci
