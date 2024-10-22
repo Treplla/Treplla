@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Treplla
 
 I'm passionate about coding and constantly improving my skills. Here's a little more about what I do.
 
